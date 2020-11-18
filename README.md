@@ -1,5 +1,5 @@
 # COMP-472-A2
-https://github.com/JesseDes/COMP-472-A2
+https://github.com/JesseDes/472-A2
 
 <h1>INSTALLATION GUIDE</h1>
 <h3> you will need the following libraries </h3>
